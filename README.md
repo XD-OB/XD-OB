@@ -1,10 +1,11 @@
 ## Hi Everyone 👋
 
 ### Welcome to my world 👨‍💻 
-- ⚡ Fun fact: I'm a potato 🥔
-
 
 ![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=obelouch)
+
+- 🌱 This Account contain some of my personal and school projects
+- ⚡ Fun fact: I'm a potato 🥔
 
 <!--
 **XD-OB/XD-OB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

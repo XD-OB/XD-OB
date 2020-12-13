@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi Everyone 👋
+
+### Welcome to my world 👨‍💻 
+- ⚡ Fun fact: I'm a potato 🥔
+
 
 ![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=obelouch)
 

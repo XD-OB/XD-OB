@@ -7,6 +7,14 @@
 - 🌱 This Account contain some of my personal and school projects
 - ⚡ Fun fact: I'm a potato 🥔
 
+<a href="https://github.com/drslax?tab=repositories">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=XD-OB&line_height=30&show_icons=true&theme=dark">
+</a>
+
+<a href="https://github.com/drslax?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XD-OB&theme=dark"/>
+</a>
+
 <!--
 **XD-OB/XD-OB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

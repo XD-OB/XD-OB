@@ -2,7 +2,7 @@
 
 ### Welcome to my world 👨‍💻 
 
-![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=obelouch)
+![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=obelouch)
 
 - 🌱 This Account contain some of my personal and school projects
 - ⚡ Fun fact: I'm a potato 🥔

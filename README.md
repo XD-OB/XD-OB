@@ -1,6 +1,6 @@
 <img src="/banner.png" />
 
-<h1>Hi, I am <a href="/">Belouche Oussama<a> 👋</h1>
+<h1>Hi, I am <a href="https://github.com/XD-OB/Portfolio">Belouche Oussama<a> 👋</h1>
 
 <a href="https://www.linkedin.com/in/belouche-oussama">
  <img src="/logos/linkedin.png" width="40" />

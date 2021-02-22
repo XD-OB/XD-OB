@@ -2,17 +2,6 @@
 
 <h1>Hi, I am Belouche Oussama 👋</h1>
 
-<h2> Welcome to my world 👨<200d>💻 </h2>
-
-- 🌱 This Account contain some of my personal and school projects
-- ⚡ Fun fact: I'm a potato 🥔
-
-![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=obelouch)
-
-<h1></h1>
-
-- 📫 How to reach me: <br/>
-
 <a href="https://www.linkedin.com/in/belouche-oussama">
  <img src="/logos/linkedin.png" width="40" />
 </a>
@@ -31,6 +20,13 @@
 <a href="https://www.instagram.com/obelouch/">
  <img src="/logos/instagram.png" width="40" />
 </a>
+
+<h2> Welcome to my world 👨<200d>💻 </h2>
+
+- 🌱 This Account contain some of my personal and school projects
+- ⚡ Fun fact: I'm a potato 🥔
+
+<img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=obelouch" />
 
 <a href="https://github.com/drslax?tab=repositories">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=XD-OB&line_height=30&show_icons=true&theme=dark">

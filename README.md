@@ -24,7 +24,7 @@
  <img src="/logos/instagram.png" width="40" />
 </a>
 
-<h2> Welcome to my world 👨💻 </h2>
+<h3> Welcome to my world 👨💻 </h3>
 
 - 🌱 This Account contain some of my personal and school projects
 - ⚡ Fun fact: I'm a potato 🥔

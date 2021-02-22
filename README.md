@@ -5,6 +5,9 @@
 <a href="https://www.linkedin.com/in/belouche-oussama">
  <img src="/logos/linkedin.png" width="40" />
 </a>
+<a href="https://www.youtube.com/channel/UCMasqe2IP_20fcAQp8vmcUw">
+ <img src="/logos/youtube-logo.png" width="40" />
+</a>
 <a href="https://github.com/XD-OB">
  <img src="/logos/github-logo.png" width="40" />
 </a>
@@ -21,7 +24,7 @@
  <img src="/logos/instagram.png" width="40" />
 </a>
 
-<h2> Welcome to my world 👨<200d>💻 </h2>
+<h2> Welcome to my world 👨💻 </h2>
 
 - 🌱 This Account contain some of my personal and school projects
 - ⚡ Fun fact: I'm a potato 🥔

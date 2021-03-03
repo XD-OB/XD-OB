@@ -2,9 +2,9 @@
 
 <h1>Hi, I am <a href="http://obelouch.ninja">Belouche Oussama<a> 👋</h1>
 
+- Data Scientist
 - Flutter Developer
 - Backend Developer
-- AI Engineer
 
 <a href="https://www.linkedin.com/in/belouche-oussama">
  <img src="/logos/linkedin.png" width="40" />

@@ -35,6 +35,8 @@
 
 <img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=obelouch" />
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XD-OB&layout=compact&hide=html&theme=dark" alt="obelouch" /><br/>
+
 <a href="https://github.com/drslax?tab=repositories">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=XD-OB&line_height=30&show_icons=true&theme=dark">
 </a>

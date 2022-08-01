@@ -2,9 +2,9 @@
 
 <h1>Hi, I am <a href="http://obelouch.ninja">Belouche Oussama<a> 👋</h1>
 
+- Backend Developer
 - Data Scientist
 - Flutter Developer
-- Backend Developer
 
 <a href="https://www.linkedin.com/in/belouche-oussama">
  <img src="/logos/linkedin.png" width="40" />
@@ -30,10 +30,9 @@
 
 <h3> Welcome to my world 👨💻 </h3>
 
+- 🔭 I’m currently working as IT Solutions Engineer at Box Analytics
 - 🌱 This Account contain some of my personal and school projects
 - ⚡ Fun fact: I'm a potato 🥔
-
-<img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=obelouch" />
 
 <a href="https://github.com/drslax?tab=repositories">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=XD-OB&line_height=30&show_icons=true&theme=dark">

@@ -55,8 +55,8 @@
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XD-OB&layout=compact&hide=html&theme=dark" alt="obelouch" /><br/>
-
+***
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=XD-OB&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **XD-OB/XD-OB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
